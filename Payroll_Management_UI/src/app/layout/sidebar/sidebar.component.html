@@ -1,0 +1,21 @@
+<ul>
+  @for (item of filteredMenu; track item.route) {
+    <li>
+      <div>
+        <a
+          [routerLink]="item.route"
+          routerLinkActive="selected"
+        >
+          <span>{{ item.label }}</span>
+        </a>
+      </div>
+    </li>
+  }
+  <li>
+    <div>
+      <a (click)="logout()">
+        <span>Logout</span>
+      </a>
+    </div>
+  </li>
+</ul>

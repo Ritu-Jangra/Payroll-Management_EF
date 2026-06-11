@@ -1,0 +1,39 @@
+<h2>Apply Leave</h2>
+<div class="status-message" *ngIf="message">
+  {{ message }}
+</div>
+<form [formGroup]="leaveForm" (ngSubmit)="applyLeave(leaveForm)">
+ 
+  <div class="error-box" *ngIf="error$ | async as error">
+    {{ error }}
+  </div>
+
+  <p>
+    <label for="start-date">Start Date</label>
+    <input type="date" id="start-date" formControlName="startDate" />
+  </p>
+
+  <p>
+    <label for="end-date">End Date</label>
+    <input type="date" id="end-date" formControlName="endDate" />
+  </p>
+
+  <p>
+    <label for="reason">Reason</label>
+
+    <select id="reason" formControlName="reason">
+      <option value="" disabled>Select Reason</option>
+
+      <option [value]="reasonType.SickLeave">Sick Leave</option>
+      <option [value]="reasonType.CasualLeave">Casual Leave</option>
+      <option [value]="reasonType.MaternityLeave">Maternity Leave</option>
+      <option [value]="reasonType.PaternityLeave">Paternity Leave</option>
+      <option [value]="reasonType.VacationLeave">Vacation Leave</option>
+      <option [value]="reasonType.Other">Other</option>
+    </select>
+  </p>
+
+  <p class="actions">
+    <button type="submit" class="page-btn" [disabled]="leaveForm.invalid">Apply</button>
+  </p>
+</form>

@@ -1,0 +1,24 @@
+<ng-container *ngIf="employeeDetails$ | async as employee; else loading">
+  <div class="card employee-card">
+    
+    <div class="employee-card__image">
+      <img
+        [src]="imagePath(employee.role)"
+        alt="employee profile picture"
+      />
+    </div>
+
+    <div class="employee-card__content">
+      <h2>{{ employee.userName }}</h2>
+      <p>Full Name: {{ employee.firstName }} {{ employee.lastName }}</p>
+      <p>Email: {{ employee.email }}</p>
+      <p>Position: {{ employee.role }}</p>
+      <p>Department: {{ employee.department }}</p>
+      <p>Salary: {{ employee.salary }}</p>
+    </div>
+
+  </div>
+</ng-container>
+<ng-template #loading>
+  <app-loading-spinner></app-loading-spinner>
+</ng-template>

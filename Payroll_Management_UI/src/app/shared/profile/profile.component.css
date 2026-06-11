@@ -1,0 +1,24 @@
+.employee-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 540px;
+}
+
+/* Avatar container */
+.employee-card__image {
+  flex: 0 0 auto;
+}
+
+.employee-card__image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%; 
+  object-fit: cover;
+  border: 2px solid #ddd;
+}
+
+/* Content */
+.employee-card__content {
+  flex: 1;
+}

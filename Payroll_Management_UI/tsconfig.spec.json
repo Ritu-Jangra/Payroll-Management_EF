@@ -1,0 +1,15 @@
+/* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
+/* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/spec",
+    "types": [
+      "vitest/globals"
+    ]
+  },
+  "include": [
+    "src/**/*.d.ts",
+    "src/**/*.spec.ts"
+, "src/app/features/employees/delete-employee/delete-employee.component.spec.ts", "src/app/features/employees/add-employee/add-employee.component.spec.ts", "src/app/features/leaves/leave-requests/leave-requests.component.spec.ts"  ]
+}

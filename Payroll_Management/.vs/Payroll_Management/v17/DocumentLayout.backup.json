@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POC_Practice\\Payroll_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|d:\\poc_practice\\payroll_management\\payroll.data\\repositories\\implementations\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|solutionrelative:payroll.data\\repositories\\implementations\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC975A3D-4FA7-4EC5-AA4B-2408E9226669}|Payroll.Contracts\\Payroll.Contracts.csproj|d:\\poc_practice\\payroll_management\\payroll.contracts\\dtos\\leave\\leaveresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC975A3D-4FA7-4EC5-AA4B-2408E9226669}|Payroll.Contracts\\Payroll.Contracts.csproj|solutionrelative:payroll.contracts\\dtos\\leave\\leaveresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\middlewares\\customglobalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\middlewares\\customglobalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\middlewares\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\middlewares\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\leave\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\leave\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\backgroundservices\\custombackgoundservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\backgroundservices\\custombackgoundservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC975A3D-4FA7-4EC5-AA4B-2408E9226669}|Payroll.Contracts\\Payroll.Contracts.csproj|d:\\poc_practice\\payroll_management\\payroll.contracts\\dtos\\leave\\updateleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC975A3D-4FA7-4EC5-AA4B-2408E9226669}|Payroll.Contracts\\Payroll.Contracts.csproj|solutionrelative:payroll.contracts\\dtos\\leave\\updateleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\validators\\leave\\applyleaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\validators\\leave\\applyleaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\validators\\employee\\addemployeerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\validators\\employee\\addemployeerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\validators\\login\\loginrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\validators\\login\\loginrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|d:\\poc_practice\\payroll_management\\payroll.data\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|solutionrelative:payroll.data\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\customextensions\\jwtserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\customextensions\\jwtserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|d:\\poc_practice\\payroll_management\\payroll.data\\repositories\\implementations\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|solutionrelative:payroll.data\\repositories\\implementations\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|d:\\poc_practice\\payroll_management\\payroll.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BCF206-5159-4510-9787-38B3A005C5F2}|Payroll.API\\Payroll.API.csproj|solutionrelative:payroll.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|d:\\poc_practice\\payroll_management\\payroll.data\\dbcontext\\payrolldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E8EFF-AE1F-4117-88A3-9329325BBA0F}|Payroll.Data\\Payroll.Data.csproj|solutionrelative:payroll.data\\dbcontext\\payrolldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\auth\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\auth\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\services\\implementations\\auth\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\services\\implementations\\auth\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|d:\\poc_practice\\payroll_management\\payroll.business\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C383EE-1A33-460D-A6BF-594CA836AED8}|Payroll.Business\\Payroll.Business.csproj|solutionrelative:payroll.business\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Program.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Program.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Program.cs",
+              "RelativeToolTip": "Payroll.API\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:37:03.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Leave\\LeaveService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Leave\\LeaveService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Leave\\LeaveService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Leave\\LeaveService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:37:18.817Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PayrollDbContext.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\DBContext\\PayrollDbContext.cs",
+              "RelativeDocumentMoniker": "Payroll.Data\\DBContext\\PayrollDbContext.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\DBContext\\PayrollDbContext.cs",
+              "RelativeToolTip": "Payroll.Data\\DBContext\\PayrollDbContext.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAA3wN8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:28:37.121Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeavesController.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\LeavesController.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Controllers\\LeavesController.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\LeavesController.cs",
+              "RelativeToolTip": "Payroll.API\\Controllers\\LeavesController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAIBJwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:18:36.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Payroll.Business\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:42:00.231Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvykAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:57:52.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJwAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:48:38.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Payroll.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:24:43.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Payroll.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIBJwCcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:56:51.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "Payroll.Data\\Repositories\\Implementations\\LeaveRepository.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\LeaveRepository.cs",
+              "RelativeToolTip": "Payroll.Data\\Repositories\\Implementations\\LeaveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:57:02.117Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Controllers\\SecurityController.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "Payroll.API\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:53:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Payroll.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Payroll.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T07:51:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomGlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Middlewares\\CustomGlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Middlewares\\CustomGlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Middlewares\\CustomGlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Payroll.API\\Middlewares\\CustomGlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:14:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomBackgoundServices.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\BackgroundServices\\CustomBackgoundServices.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\BackgroundServices\\CustomBackgoundServices.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\BackgroundServices\\CustomBackgoundServices.cs",
+              "RelativeToolTip": "Payroll.API\\BackgroundServices\\CustomBackgoundServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:08:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateLeaveRequestDto.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Contracts\\DTOs\\Leave\\UpdateLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Payroll.Contracts\\DTOs\\Leave\\UpdateLeaveRequestDto.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Contracts\\DTOs\\Leave\\UpdateLeaveRequestDto.cs",
+              "RelativeToolTip": "Payroll.Contracts\\DTOs\\Leave\\UpdateLeaveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:24:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveResponseDto.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Contracts\\DTOs\\Leave\\LeaveResponseDto.cs",
+              "RelativeDocumentMoniker": "Payroll.Contracts\\DTOs\\Leave\\LeaveResponseDto.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Contracts\\DTOs\\Leave\\LeaveResponseDto.cs",
+              "RelativeToolTip": "Payroll.Contracts\\DTOs\\Leave\\LeaveResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:24:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplyLeaveRequestDtoValidator.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Leave\\ApplyLeaveRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Validators\\Leave\\ApplyLeaveRequestDtoValidator.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Leave\\ApplyLeaveRequestDtoValidator.cs",
+              "RelativeToolTip": "Payroll.Business\\Validators\\Leave\\ApplyLeaveRequestDtoValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:48:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEmployeeRequestDtoValidator.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Employee\\AddEmployeeRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Validators\\Employee\\AddEmployeeRequestDtoValidator.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Employee\\AddEmployeeRequestDtoValidator.cs",
+              "RelativeToolTip": "Payroll.Business\\Validators\\Employee\\AddEmployeeRequestDtoValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBJwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:32:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequestDtoValidator.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Login\\LoginRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Validators\\Login\\LoginRequestDtoValidator.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Validators\\Login\\LoginRequestDtoValidator.cs",
+              "RelativeToolTip": "Payroll.Business\\Validators\\Login\\LoginRequestDtoValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwA0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:31:49.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Auth\\CurrentUserService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\CurrentUserService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Auth\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:39:14.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "Payroll.API\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA3wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:17:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtServiceExtensions.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\CustomExtensions\\JwtServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Payroll.API\\CustomExtensions\\JwtServiceExtensions.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.API\\CustomExtensions\\JwtServiceExtensions.cs",
+              "RelativeToolTip": "Payroll.API\\CustomExtensions\\JwtServiceExtensions.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIBJwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:50:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Payroll.Data\\Repositories\\Implementations\\RefreshTokenRepository.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "Payroll.Data\\Repositories\\Implementations\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:59:55.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Payroll.Data\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Data\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "Payroll.Data\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv2IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:59:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Employee\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Employee\\EmployeeService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Employee\\EmployeeService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Employee\\EmployeeService.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAIwM0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:58:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\PasswordService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Auth\\PasswordService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\PasswordService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Auth\\PasswordService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:58:15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "Payroll.Business\\Services\\Implementations\\Auth\\JwtService.cs",
+              "ToolTip": "D:\\POC_Practice\\Payroll_Management\\Payroll.Business\\Services\\Implementations\\Auth\\JwtService.cs",
+              "RelativeToolTip": "Payroll.Business\\Services\\Implementations\\Auth\\JwtService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:58:13.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

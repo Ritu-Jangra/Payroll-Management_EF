@@ -1,0 +1,39 @@
+<form #myform="ngForm" (ngSubmit)="onSubmit(myform)">
+
+  <div class="error-box" *ngIf="error$ | async as error">
+  {{ error }}
+</div>
+
+  <p>
+    <label for="userName">UserName</label>
+    <input
+      type="text"
+      id="userName"
+      class="form-control"
+      ngModel
+      name="userName"
+      required
+    />
+  </p>
+
+  <p>
+    <label for="password">Password</label>
+    <input
+      type="password"
+      id="password"
+      class="form-control"
+      ngModel
+      name="password"
+      required
+      minlength="8"
+      maxlength="13"
+    />
+  </p>
+
+  <p class="actions">
+    <button type="submit" [disabled]="!myform.valid || (isLoading$ | async)">
+      {{ (isLoading$ | async) ? 'Logging in...' : 'Login' }}
+    </button>
+  </p>
+
+</form>
