@@ -1,0 +1,22 @@
+<ul id="employees">
+  @if (employees$ | async; as employees) {
+    @if (!employees || employees.length === 0) {
+      <li class="no-data">No team member details found</li>
+    } @else {
+      @for (employee of employees; track employee.userName) {
+        <li>
+          <div>
+            <a>
+              <img [src]="imagePath(employee.role)" [alt]="employee.userName" />
+
+              <span>{{ employee.userName }}</span> |
+              <span> Email: {{ employee.email }}</span>
+            </a>
+          </div>
+        </li>
+      }
+    }
+  } @else {
+    <li class="no-data">No Team Member Details Found</li>
+  }
+</ul>

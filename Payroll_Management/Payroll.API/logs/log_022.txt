@@ -1,0 +1,688 @@
+2026-04-30 15:16:35.684 +05:30 [INF] Background task running...
+2026-04-30 15:16:40.736 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:16:40.738 +05:30 [INF] Background task running...
+2026-04-30 15:16:45.751 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:16:45.751 +05:30 [INF] Background task running...
+2026-04-30 15:16:50.761 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:16:50.762 +05:30 [INF] Background task running...
+2026-04-30 15:16:55.768 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:16:55.769 +05:30 [INF] Background task running...
+2026-04-30 15:17:00.776 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:00.777 +05:30 [INF] Background task running...
+2026-04-30 15:17:05.781 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:05.782 +05:30 [INF] Background task running...
+2026-04-30 15:17:10.788 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:10.790 +05:30 [INF] Background task running...
+2026-04-30 15:17:15.792 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:15.797 +05:30 [INF] Background task running...
+2026-04-30 15:17:20.812 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:20.814 +05:30 [INF] Background task running...
+2026-04-30 15:17:25.821 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:25.823 +05:30 [INF] Background task running...
+2026-04-30 15:17:30.831 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:30.833 +05:30 [INF] Background task running...
+2026-04-30 15:17:35.837 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:35.838 +05:30 [INF] Background task running...
+2026-04-30 15:17:40.849 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:40.852 +05:30 [INF] Background task running...
+2026-04-30 15:17:45.858 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:45.860 +05:30 [INF] Background task running...
+2026-04-30 15:17:50.860 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:50.862 +05:30 [INF] Background task running...
+2026-04-30 15:17:55.868 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:17:55.870 +05:30 [INF] Background task running...
+2026-04-30 15:18:00.876 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:00.878 +05:30 [INF] Background task running...
+2026-04-30 15:18:05.887 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:05.889 +05:30 [INF] Background task running...
+2026-04-30 15:18:10.893 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:10.895 +05:30 [INF] Background task running...
+2026-04-30 15:18:15.898 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:15.905 +05:30 [INF] Background task running...
+2026-04-30 15:18:20.922 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:20.923 +05:30 [INF] Background task running...
+2026-04-30 15:18:25.938 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:25.941 +05:30 [INF] Background task running...
+2026-04-30 15:18:30.948 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:30.951 +05:30 [INF] Background task running...
+2026-04-30 15:18:35.952 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:35.954 +05:30 [INF] Background task running...
+2026-04-30 15:18:40.958 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:40.960 +05:30 [INF] Background task running...
+2026-04-30 15:18:45.972 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:45.975 +05:30 [INF] Background task running...
+2026-04-30 15:18:50.976 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:50.978 +05:30 [INF] Background task running...
+2026-04-30 15:18:55.980 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:18:55.982 +05:30 [INF] Background task running...
+2026-04-30 15:19:00.994 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:00.996 +05:30 [INF] Background task running...
+2026-04-30 15:19:06.010 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:06.013 +05:30 [INF] Background task running...
+2026-04-30 15:19:11.017 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:11.023 +05:30 [INF] Background task running...
+2026-04-30 15:19:16.039 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:16.040 +05:30 [INF] Background task running...
+2026-04-30 15:19:21.046 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:21.048 +05:30 [INF] Background task running...
+2026-04-30 15:19:26.061 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:26.063 +05:30 [INF] Background task running...
+2026-04-30 15:19:31.075 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:31.077 +05:30 [INF] Background task running...
+2026-04-30 15:19:36.087 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:36.088 +05:30 [INF] Background task running...
+2026-04-30 15:19:41.095 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:41.097 +05:30 [INF] Background task running...
+2026-04-30 15:19:46.098 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:46.100 +05:30 [INF] Background task running...
+2026-04-30 15:19:51.111 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:51.113 +05:30 [INF] Background task running...
+2026-04-30 15:19:56.115 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:19:56.119 +05:30 [INF] Background task running...
+2026-04-30 15:20:01.126 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:01.127 +05:30 [INF] Background task running...
+2026-04-30 15:20:06.139 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:06.141 +05:30 [INF] Background task running...
+2026-04-30 15:20:11.148 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:11.149 +05:30 [INF] Background task running...
+2026-04-30 15:20:16.159 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:16.161 +05:30 [INF] Background task running...
+2026-04-30 15:20:21.174 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:21.176 +05:30 [INF] Background task running...
+2026-04-30 15:20:26.183 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:26.185 +05:30 [INF] Background task running...
+2026-04-30 15:20:31.198 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:31.203 +05:30 [INF] Background task running...
+2026-04-30 15:20:36.212 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:36.213 +05:30 [INF] Background task running...
+2026-04-30 15:20:41.227 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:41.229 +05:30 [INF] Background task running...
+2026-04-30 15:20:46.235 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:46.237 +05:30 [INF] Background task running...
+2026-04-30 15:20:51.252 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:51.254 +05:30 [INF] Background task running...
+2026-04-30 15:20:56.261 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:20:56.263 +05:30 [INF] Background task running...
+2026-04-30 15:21:01.266 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:01.268 +05:30 [INF] Background task running...
+2026-04-30 15:21:06.280 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:06.285 +05:30 [INF] Background task running...
+2026-04-30 15:21:11.295 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:11.297 +05:30 [INF] Background task running...
+2026-04-30 15:21:16.308 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:16.310 +05:30 [INF] Background task running...
+2026-04-30 15:21:21.316 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:21.317 +05:30 [INF] Background task running...
+2026-04-30 15:21:26.326 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:26.327 +05:30 [INF] Background task running...
+2026-04-30 15:21:31.330 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:31.332 +05:30 [INF] Background task running...
+2026-04-30 15:21:36.345 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:36.347 +05:30 [INF] Background task running...
+2026-04-30 15:21:41.351 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:41.356 +05:30 [INF] Background task running...
+2026-04-30 15:21:46.366 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:46.368 +05:30 [INF] Background task running...
+2026-04-30 15:21:51.371 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:51.373 +05:30 [INF] Background task running...
+2026-04-30 15:21:56.380 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:21:56.386 +05:30 [INF] Background task running...
+2026-04-30 15:22:01.395 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:01.397 +05:30 [INF] Background task running...
+2026-04-30 15:22:06.412 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:06.413 +05:30 [INF] Background task running...
+2026-04-30 15:22:11.416 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:11.417 +05:30 [INF] Background task running...
+2026-04-30 15:22:16.424 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:16.427 +05:30 [INF] Background task running...
+2026-04-30 15:22:21.434 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:21.435 +05:30 [INF] Background task running...
+2026-04-30 15:22:26.438 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:26.440 +05:30 [INF] Background task running...
+2026-04-30 15:22:31.445 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:31.445 +05:30 [INF] Background task running...
+2026-04-30 15:22:36.457 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:36.459 +05:30 [INF] Background task running...
+2026-04-30 15:22:41.472 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:41.474 +05:30 [INF] Background task running...
+2026-04-30 15:22:46.487 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:46.489 +05:30 [INF] Background task running...
+2026-04-30 15:22:51.503 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:51.504 +05:30 [INF] Background task running...
+2026-04-30 15:22:56.509 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:22:56.511 +05:30 [INF] Background task running...
+2026-04-30 15:23:01.526 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:01.527 +05:30 [INF] Background task running...
+2026-04-30 15:23:06.530 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:06.533 +05:30 [INF] Background task running...
+2026-04-30 15:23:11.542 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:11.547 +05:30 [INF] Background task running...
+2026-04-30 15:23:16.552 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:16.554 +05:30 [INF] Background task running...
+2026-04-30 15:23:21.569 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:21.570 +05:30 [INF] Background task running...
+2026-04-30 15:23:26.580 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:26.581 +05:30 [INF] Background task running...
+2026-04-30 15:23:31.591 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:31.592 +05:30 [INF] Background task running...
+2026-04-30 15:23:36.600 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:36.601 +05:30 [INF] Background task running...
+2026-04-30 15:23:41.606 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:41.608 +05:30 [INF] Background task running...
+2026-04-30 15:23:46.613 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:46.614 +05:30 [INF] Background task running...
+2026-04-30 15:23:51.619 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:51.621 +05:30 [INF] Background task running...
+2026-04-30 15:23:56.628 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:23:56.630 +05:30 [INF] Background task running...
+2026-04-30 15:24:01.635 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:01.637 +05:30 [INF] Background task running...
+2026-04-30 15:24:06.653 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:06.654 +05:30 [INF] Background task running...
+2026-04-30 15:24:11.669 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:11.670 +05:30 [INF] Background task running...
+2026-04-30 15:24:16.680 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:16.681 +05:30 [INF] Background task running...
+2026-04-30 15:24:21.689 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:21.691 +05:30 [INF] Background task running...
+2026-04-30 15:24:26.695 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:26.697 +05:30 [INF] Background task running...
+2026-04-30 15:24:31.707 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:31.709 +05:30 [INF] Background task running...
+2026-04-30 15:24:36.717 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:36.718 +05:30 [INF] Background task running...
+2026-04-30 15:24:41.730 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:41.736 +05:30 [INF] Background task running...
+2026-04-30 15:24:46.750 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:46.751 +05:30 [INF] Background task running...
+2026-04-30 15:24:51.754 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:51.755 +05:30 [INF] Background task running...
+2026-04-30 15:24:56.768 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:24:56.771 +05:30 [INF] Background task running...
+2026-04-30 15:25:01.786 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:01.792 +05:30 [INF] Background task running...
+2026-04-30 15:25:06.799 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:06.800 +05:30 [INF] Background task running...
+2026-04-30 15:25:11.804 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:11.806 +05:30 [INF] Background task running...
+2026-04-30 15:25:16.819 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:16.820 +05:30 [INF] Background task running...
+2026-04-30 15:25:21.833 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:21.838 +05:30 [INF] Background task running...
+2026-04-30 15:25:26.842 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:26.844 +05:30 [INF] Background task running...
+2026-04-30 15:25:31.858 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:31.861 +05:30 [INF] Background task running...
+2026-04-30 15:25:36.867 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:36.871 +05:30 [INF] Background task running...
+2026-04-30 15:25:41.885 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:41.887 +05:30 [INF] Background task running...
+2026-04-30 15:25:44.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:25:44.039 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:44.040 +05:30 [INF] Incoming Request: GET /api/security/csrf-token
+2026-04-30 15:25:44.041 +05:30 [INF] Executing endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:25:44.043 +05:30 [INF] Route matched with {action = "GetCsrfToken", controller = "Security"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCsrfToken() on controller Payroll.API.SecurityController (Payroll.API).
+2026-04-30 15:25:44.045 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.CsrfResponseDto'.
+2026-04-30 15:25:44.046 +05:30 [INF] Executed action Payroll.API.SecurityController.GetCsrfToken (Payroll.API) in 1.8271ms
+2026-04-30 15:25:44.047 +05:30 [INF] Executed endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:25:44.048 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:25:44.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/security/csrf-token - 200 null application/json; charset=utf-8 13.8798ms
+2026-04-30 15:25:44.060 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - null null
+2026-04-30 15:25:44.062 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:44.063 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - 204 null null 3.3688ms
+2026-04-30 15:25:44.064 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7288/api/auth/refresh - application/json 2
+2026-04-30 15:25:44.069 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:44.070 +05:30 [INF] Incoming Request: POST /api/auth/refresh
+2026-04-30 15:25:44.071 +05:30 [INF] Executing endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:25:44.072 +05:30 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(System.Threading.CancellationToken) on controller Payroll.API.AuthController (Payroll.API).
+2026-04-30 15:25:44.074 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2026-04-30 15:25:44.075 +05:30 [INF] Executed action Payroll.API.AuthController.RefreshToken (Payroll.API) in 1.6397ms
+2026-04-30 15:25:44.076 +05:30 [INF] Executed endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:25:44.077 +05:30 [INF] Outgoing Response: 400
+2026-04-30 15:25:44.078 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7288/api/auth/refresh - 400 null text/plain; charset=utf-8 13.7276ms
+2026-04-30 15:25:46.907 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:46.908 +05:30 [INF] Background task running...
+2026-04-30 15:25:51.166 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/auth/login - null null
+2026-04-30 15:25:51.168 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:51.169 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/auth/login - 204 null null 2.8104ms
+2026-04-30 15:25:51.170 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7288/api/auth/login - application/json 47
+2026-04-30 15:25:51.173 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:51.174 +05:30 [INF] Incoming Request: POST /api/auth/login
+2026-04-30 15:25:51.175 +05:30 [INF] Executing endpoint 'Payroll.API.AuthController.Login (Payroll.API)'
+2026-04-30 15:25:51.176 +05:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Payroll.Contracts.LoginRequestDto, System.Threading.CancellationToken) on controller Payroll.API.AuthController (Payroll.API).
+2026-04-30 15:25:51.666 +05:30 [INF] Executed DbCommand (288ms) [Parameters=[@__username_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[RoleId0], [s].[Name], [s0].[RoleId], [s0].[PermissionId], [s0].[PermissionId0], [s0].[PermissionName]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [r].[RoleId] AS [RoleId0], [r].[Name]
+    FROM [Employees] AS [e]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[UserName] = @__username_0
+) AS [s]
+LEFT JOIN (
+    SELECT [r0].[RoleId], [r0].[PermissionId], [p].[PermissionId] AS [PermissionId0], [p].[PermissionName]
+    FROM [RolePermissions] AS [r0]
+    INNER JOIN [Permissions] AS [p] ON [r0].[PermissionId] = [p].[PermissionId]
+) AS [s0] ON [s].[RoleId0] = [s0].[RoleId]
+ORDER BY [s].[EmployeeId], [s].[RoleId0], [s0].[RoleId], [s0].[PermissionId]
+2026-04-30 15:25:51.813 +05:30 [INF] Executed DbCommand (74ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (DbType = Boolean), @p4='?' (DbType = Guid), @p5='?' (DbType = DateTime2), @p6='?' (Size = 4000), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([Id], [CreatedAt], [ExpiryDate], [IsRevoked], [ReplacedByTokenId], [RevokedAt], [TokenHash], [UserId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2026-04-30 15:25:51.817 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.AuthResponseDto'.
+2026-04-30 15:25:51.819 +05:30 [INF] Executed action Payroll.API.AuthController.Login (Payroll.API) in 641.7289ms
+2026-04-30 15:25:51.820 +05:30 [INF] Executed endpoint 'Payroll.API.AuthController.Login (Payroll.API)'
+2026-04-30 15:25:51.821 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:25:51.822 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7288/api/auth/login - 200 null application/json; charset=utf-8 651.8104ms
+2026-04-30 15:25:51.824 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:25:51.826 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:51.827 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - 204 null null 2.6346ms
+2026-04-30 15:25:51.828 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:25:51.831 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:51.832 +05:30 [INF] Incoming Request: GET /api/security/csrf-token
+2026-04-30 15:25:51.833 +05:30 [INF] Executing endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:25:51.834 +05:30 [INF] Route matched with {action = "GetCsrfToken", controller = "Security"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCsrfToken() on controller Payroll.API.SecurityController (Payroll.API).
+2026-04-30 15:25:51.835 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.CsrfResponseDto'.
+2026-04-30 15:25:51.836 +05:30 [INF] Executed action Payroll.API.SecurityController.GetCsrfToken (Payroll.API) in 1.2457ms
+2026-04-30 15:25:51.837 +05:30 [INF] Executed endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:25:51.838 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:25:51.839 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/security/csrf-token - 200 null application/json; charset=utf-8 11.2777ms
+2026-04-30 15:25:51.922 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:51.923 +05:30 [INF] Background task running...
+2026-04-30 15:25:56.933 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:25:56.935 +05:30 [INF] Background task running...
+2026-04-30 15:25:58.988 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:25:58.991 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:58.992 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 204 null null 4.3093ms
+2026-04-30 15:25:59.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:25:59.236 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:25:59.237 +05:30 [INF] Incoming Request: GET /api/v2/leaves/my
+2026-04-30 15:25:59.238 +05:30 [INF] Executing endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:25:59.239 +05:30 [INF] Route matched with {action = "GetMyLeaves", controller = "Leaves"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyLeaves(Payroll.Contracts.QueryDto, System.Threading.CancellationToken) on controller Payroll.API.LeavesController (Payroll.API).
+2026-04-30 15:25:59.252 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[@__employeeId_Value_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[LeaveId], [l].[ActionBy], [l].[EmployeeId], [l].[EndDate], [l].[Reason], [l].[StartDate], [l].[Status], [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [e0].[EmployeeId], [e0].[Department], [e0].[Email], [e0].[FirstName], [e0].[LastName], [e0].[ManagerId], [e0].[PasswordHash], [e0].[RoleId], [e0].[Salary], [e0].[UserName], [e1].[EmployeeId], [e1].[Department], [e1].[Email], [e1].[FirstName], [e1].[LastName], [e1].[ManagerId], [e1].[PasswordHash], [e1].[RoleId], [e1].[Salary], [e1].[UserName]
+FROM [Leaves] AS [l]
+INNER JOIN [Employees] AS [e] ON [l].[EmployeeId] = [e].[EmployeeId]
+LEFT JOIN [Employees] AS [e0] ON [e].[ManagerId] = [e0].[EmployeeId]
+LEFT JOIN [Employees] AS [e1] ON [l].[ActionBy] = [e1].[EmployeeId]
+WHERE [l].[EmployeeId] = @__employeeId_Value_0
+2026-04-30 15:25:59.255 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Payroll.Contracts.LeaveResponseDto, Payroll.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-30 15:25:59.256 +05:30 [INF] Executed action Payroll.API.LeavesController.GetMyLeaves (Payroll.API) in 15.1786ms
+2026-04-30 15:25:59.257 +05:30 [INF] Executed endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:25:59.258 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:25:59.259 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 200 null application/json; charset=utf-8 26.5606ms
+2026-04-30 15:26:01.523 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/v2/employee/me - null null
+2026-04-30 15:26:01.526 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:01.527 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/v2/employee/me - 204 null null 4.3393ms
+2026-04-30 15:26:01.945 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:01.948 +05:30 [INF] Background task running...
+2026-04-30 15:26:01.982 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/employee/me - null null
+2026-04-30 15:26:01.985 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:01.986 +05:30 [INF] Incoming Request: GET /api/v2/employee/me
+2026-04-30 15:26:01.987 +05:30 [INF] Executing endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:01.988 +05:30 [INF] Route matched with {action = "GetMyPersonalInfo", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyPersonalInfo(System.Threading.CancellationToken) on controller Payroll.API.EmployeeController (Payroll.API).
+2026-04-30 15:26:01.994 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__employeeId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[EmployeeId0], [s].[Department0], [s].[Email0], [s].[FirstName0], [s].[LastName0], [s].[ManagerId0], [s].[PasswordHash0], [s].[RoleId0], [s].[Salary0], [s].[UserName0], [s].[RoleId1], [s].[Name], [l].[LeaveId], [l].[ActionBy], [l].[EmployeeId], [l].[EndDate], [l].[Reason], [l].[StartDate], [l].[Status]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [e0].[EmployeeId] AS [EmployeeId0], [e0].[Department] AS [Department0], [e0].[Email] AS [Email0], [e0].[FirstName] AS [FirstName0], [e0].[LastName] AS [LastName0], [e0].[ManagerId] AS [ManagerId0], [e0].[PasswordHash] AS [PasswordHash0], [e0].[RoleId] AS [RoleId0], [e0].[Salary] AS [Salary0], [e0].[UserName] AS [UserName0], [r].[RoleId] AS [RoleId1], [r].[Name]
+    FROM [Employees] AS [e]
+    LEFT JOIN [Employees] AS [e0] ON [e].[ManagerId] = [e0].[EmployeeId]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[EmployeeId] = @__employeeId_0
+) AS [s]
+LEFT JOIN [Leaves] AS [l] ON [s].[EmployeeId] = [l].[EmployeeId]
+ORDER BY [s].[EmployeeId], [s].[EmployeeId0], [s].[RoleId1]
+2026-04-30 15:26:01.997 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.EmployeeResponseDto'.
+2026-04-30 15:26:01.998 +05:30 [INF] Executed action Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API) in 8.4355ms
+2026-04-30 15:26:01.999 +05:30 [INF] Executed endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:02.000 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:02.001 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/employee/me - 200 null application/json; charset=utf-8 18.8028ms
+2026-04-30 15:26:06.960 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:06.962 +05:30 [INF] Background task running...
+2026-04-30 15:26:10.115 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:10.118 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:10.119 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 204 null null 4.1863ms
+2026-04-30 15:26:10.121 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:10.124 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:10.125 +05:30 [INF] Incoming Request: GET /api/v2/leaves/my
+2026-04-30 15:26:10.126 +05:30 [INF] Executing endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:10.127 +05:30 [INF] Route matched with {action = "GetMyLeaves", controller = "Leaves"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyLeaves(Payroll.Contracts.QueryDto, System.Threading.CancellationToken) on controller Payroll.API.LeavesController (Payroll.API).
+2026-04-30 15:26:10.129 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Payroll.Contracts.LeaveResponseDto, Payroll.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-30 15:26:10.130 +05:30 [INF] Executed action Payroll.API.LeavesController.GetMyLeaves (Payroll.API) in 1.595ms
+2026-04-30 15:26:10.131 +05:30 [INF] Executed endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:10.132 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:10.133 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 200 null application/json; charset=utf-8 11.9066ms
+2026-04-30 15:26:10.995 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/v2/employee/me - null null
+2026-04-30 15:26:10.998 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:10.998 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/v2/employee/me - 204 null null 3.128ms
+2026-04-30 15:26:11.000 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/employee/me - null null
+2026-04-30 15:26:11.003 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:11.004 +05:30 [INF] Incoming Request: GET /api/v2/employee/me
+2026-04-30 15:26:11.005 +05:30 [INF] Executing endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:11.006 +05:30 [INF] Route matched with {action = "GetMyPersonalInfo", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyPersonalInfo(System.Threading.CancellationToken) on controller Payroll.API.EmployeeController (Payroll.API).
+2026-04-30 15:26:11.009 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__employeeId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[EmployeeId0], [s].[Department0], [s].[Email0], [s].[FirstName0], [s].[LastName0], [s].[ManagerId0], [s].[PasswordHash0], [s].[RoleId0], [s].[Salary0], [s].[UserName0], [s].[RoleId1], [s].[Name], [l].[LeaveId], [l].[ActionBy], [l].[EmployeeId], [l].[EndDate], [l].[Reason], [l].[StartDate], [l].[Status]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [e0].[EmployeeId] AS [EmployeeId0], [e0].[Department] AS [Department0], [e0].[Email] AS [Email0], [e0].[FirstName] AS [FirstName0], [e0].[LastName] AS [LastName0], [e0].[ManagerId] AS [ManagerId0], [e0].[PasswordHash] AS [PasswordHash0], [e0].[RoleId] AS [RoleId0], [e0].[Salary] AS [Salary0], [e0].[UserName] AS [UserName0], [r].[RoleId] AS [RoleId1], [r].[Name]
+    FROM [Employees] AS [e]
+    LEFT JOIN [Employees] AS [e0] ON [e].[ManagerId] = [e0].[EmployeeId]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[EmployeeId] = @__employeeId_0
+) AS [s]
+LEFT JOIN [Leaves] AS [l] ON [s].[EmployeeId] = [l].[EmployeeId]
+ORDER BY [s].[EmployeeId], [s].[EmployeeId0], [s].[RoleId1]
+2026-04-30 15:26:11.011 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.EmployeeResponseDto'.
+2026-04-30 15:26:11.012 +05:30 [INF] Executed action Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API) in 5.021ms
+2026-04-30 15:26:11.014 +05:30 [INF] Executed endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:11.014 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:11.015 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/employee/me - 200 null application/json; charset=utf-8 15.8395ms
+2026-04-30 15:26:11.968 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:11.970 +05:30 [INF] Background task running...
+2026-04-30 15:26:13.417 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:13.420 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:13.420 +05:30 [INF] Incoming Request: GET /api/v2/leaves/my
+2026-04-30 15:26:13.422 +05:30 [INF] Executing endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:13.423 +05:30 [INF] Route matched with {action = "GetMyLeaves", controller = "Leaves"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyLeaves(Payroll.Contracts.QueryDto, System.Threading.CancellationToken) on controller Payroll.API.LeavesController (Payroll.API).
+2026-04-30 15:26:13.425 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Payroll.Contracts.LeaveResponseDto, Payroll.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-30 15:26:13.426 +05:30 [INF] Executed action Payroll.API.LeavesController.GetMyLeaves (Payroll.API) in 2.0953ms
+2026-04-30 15:26:13.428 +05:30 [INF] Executed endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:13.429 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:13.430 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 200 null application/json; charset=utf-8 13.0693ms
+2026-04-30 15:26:15.795 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/employee/me - null null
+2026-04-30 15:26:15.798 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:15.799 +05:30 [INF] Incoming Request: GET /api/v2/employee/me
+2026-04-30 15:26:15.800 +05:30 [INF] Executing endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:15.801 +05:30 [INF] Route matched with {action = "GetMyPersonalInfo", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyPersonalInfo(System.Threading.CancellationToken) on controller Payroll.API.EmployeeController (Payroll.API).
+2026-04-30 15:26:15.805 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__employeeId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[EmployeeId0], [s].[Department0], [s].[Email0], [s].[FirstName0], [s].[LastName0], [s].[ManagerId0], [s].[PasswordHash0], [s].[RoleId0], [s].[Salary0], [s].[UserName0], [s].[RoleId1], [s].[Name], [l].[LeaveId], [l].[ActionBy], [l].[EmployeeId], [l].[EndDate], [l].[Reason], [l].[StartDate], [l].[Status]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [e0].[EmployeeId] AS [EmployeeId0], [e0].[Department] AS [Department0], [e0].[Email] AS [Email0], [e0].[FirstName] AS [FirstName0], [e0].[LastName] AS [LastName0], [e0].[ManagerId] AS [ManagerId0], [e0].[PasswordHash] AS [PasswordHash0], [e0].[RoleId] AS [RoleId0], [e0].[Salary] AS [Salary0], [e0].[UserName] AS [UserName0], [r].[RoleId] AS [RoleId1], [r].[Name]
+    FROM [Employees] AS [e]
+    LEFT JOIN [Employees] AS [e0] ON [e].[ManagerId] = [e0].[EmployeeId]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[EmployeeId] = @__employeeId_0
+) AS [s]
+LEFT JOIN [Leaves] AS [l] ON [s].[EmployeeId] = [l].[EmployeeId]
+ORDER BY [s].[EmployeeId], [s].[EmployeeId0], [s].[RoleId1]
+2026-04-30 15:26:15.807 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.EmployeeResponseDto'.
+2026-04-30 15:26:15.809 +05:30 [INF] Executed action Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API) in 5.5732ms
+2026-04-30 15:26:15.810 +05:30 [INF] Executed endpoint 'Payroll.API.EmployeeController.GetMyPersonalInfo (Payroll.API)'
+2026-04-30 15:26:15.811 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:15.811 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/employee/me - 200 null application/json; charset=utf-8 16.5183ms
+2026-04-30 15:26:16.978 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:16.980 +05:30 [INF] Background task running...
+2026-04-30 15:26:21.996 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:21.998 +05:30 [INF] Background task running...
+2026-04-30 15:26:27.011 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:27.012 +05:30 [INF] Background task running...
+2026-04-30 15:26:32.018 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:32.019 +05:30 [INF] Background task running...
+2026-04-30 15:26:37.027 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:37.028 +05:30 [INF] Background task running...
+2026-04-30 15:26:42.042 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:42.044 +05:30 [INF] Background task running...
+2026-04-30 15:26:47.054 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:47.055 +05:30 [INF] Background task running...
+2026-04-30 15:26:52.063 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:52.068 +05:30 [INF] Background task running...
+2026-04-30 15:26:57.079 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:26:57.081 +05:30 [INF] Background task running...
+2026-04-30 15:26:58.889 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:58.892 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:58.893 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 204 null null 4.2636ms
+2026-04-30 15:26:58.894 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:58.905 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:58.906 +05:30 [INF] Incoming Request: GET /api/v2/leaves/my
+2026-04-30 15:26:58.909 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:58'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2026-04-30 15:26:59.435 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:58'.
+2026-04-30 15:26:59.437 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin|Manager|Employee)
+ClaimsAuthorizationRequirement:Claim.Type=Permission and Claim.Value is one of the following values: (VIEW_MY_LEAVES)
+2026-04-30 15:26:59.458 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-04-30 15:26:59.460 +05:30 [INF] Outgoing Response: 401
+2026-04-30 15:26:59.461 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 401 null application/json; charset=utf-8 566.8935ms
+2026-04-30 15:26:59.466 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:26:59.468 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:59.469 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - 204 null null 2.951ms
+2026-04-30 15:26:59.470 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:26:59.473 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:59.473 +05:30 [INF] Incoming Request: GET /api/security/csrf-token
+2026-04-30 15:26:59.475 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:59'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2026-04-30 15:26:59.477 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:59'.
+2026-04-30 15:26:59.478 +05:30 [INF] Executing endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:26:59.479 +05:30 [INF] Route matched with {action = "GetCsrfToken", controller = "Security"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCsrfToken() on controller Payroll.API.SecurityController (Payroll.API).
+2026-04-30 15:26:59.480 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.CsrfResponseDto'.
+2026-04-30 15:26:59.481 +05:30 [INF] Executed action Payroll.API.SecurityController.GetCsrfToken (Payroll.API) in 1.2314ms
+2026-04-30 15:26:59.482 +05:30 [INF] Executed endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:26:59.483 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:59.484 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/security/csrf-token - 200 null application/json; charset=utf-8 14.1794ms
+2026-04-30 15:26:59.488 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - null null
+2026-04-30 15:26:59.490 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:59.491 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - 204 null null 3.0516ms
+2026-04-30 15:26:59.492 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7288/api/auth/refresh - application/json 2
+2026-04-30 15:26:59.496 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:59.496 +05:30 [INF] Incoming Request: POST /api/auth/refresh
+2026-04-30 15:26:59.498 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:59'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2026-04-30 15:26:59.500 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '30/04/2026 09:56:51', Current time (UTC): '30/04/2026 09:56:59'.
+2026-04-30 15:26:59.501 +05:30 [INF] Executing endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:26:59.502 +05:30 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(System.Threading.CancellationToken) on controller Payroll.API.AuthController (Payroll.API).
+2026-04-30 15:26:59.512 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@__tokenHash_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedAt], [r].[ExpiryDate], [r].[IsRevoked], [r].[ReplacedByTokenId], [r].[RevokedAt], [r].[TokenHash], [r].[UserId]
+FROM [RefreshTokens] AS [r]
+WHERE [r].[TokenHash] = @__tokenHash_0 AND [r].[IsRevoked] = CAST(0 AS bit) AND [r].[ExpiryDate] > GETUTCDATE()
+2026-04-30 15:26:59.520 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[RoleId0], [s].[Name], [s0].[RoleId], [s0].[PermissionId], [s0].[PermissionId0], [s0].[PermissionName]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [r].[RoleId] AS [RoleId0], [r].[Name]
+    FROM [Employees] AS [e]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[EmployeeId] = @__userId_0
+) AS [s]
+LEFT JOIN (
+    SELECT [r0].[RoleId], [r0].[PermissionId], [p].[PermissionId] AS [PermissionId0], [p].[PermissionName]
+    FROM [RolePermissions] AS [r0]
+    INNER JOIN [Permissions] AS [p] ON [r0].[PermissionId] = [p].[PermissionId]
+) AS [s0] ON [s].[RoleId0] = [s0].[RoleId]
+ORDER BY [s].[EmployeeId], [s].[RoleId0], [s0].[RoleId], [s0].[PermissionId]
+2026-04-30 15:26:59.524 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (DbType = Boolean), @p4='?' (DbType = Guid), @p5='?' (DbType = DateTime2), @p6='?' (Size = 4000), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([Id], [CreatedAt], [ExpiryDate], [IsRevoked], [ReplacedByTokenId], [RevokedAt], [TokenHash], [UserId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2026-04-30 15:26:59.572 +05:30 [INF] Executed DbCommand (46ms) [Parameters=[@p2='?' (DbType = Guid), @p0='?' (DbType = Boolean), @p1='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [IsRevoked] = @p0, [RevokedAt] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2026-04-30 15:26:59.576 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[@p7='?' (DbType = Guid), @p0='?' (DbType = DateTime2), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Boolean), @p3='?' (DbType = Guid), @p4='?' (DbType = DateTime2), @p5='?' (Size = 4000), @p6='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [CreatedAt] = @p0, [ExpiryDate] = @p1, [IsRevoked] = @p2, [ReplacedByTokenId] = @p3, [RevokedAt] = @p4, [TokenHash] = @p5, [UserId] = @p6
+OUTPUT 1
+WHERE [Id] = @p7;
+2026-04-30 15:26:59.579 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.AuthResponseDto'.
+2026-04-30 15:26:59.581 +05:30 [INF] Executed action Payroll.API.AuthController.RefreshToken (Payroll.API) in 77.2455ms
+2026-04-30 15:26:59.582 +05:30 [INF] Executed endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:26:59.583 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:59.584 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7288/api/auth/refresh - 200 null application/json; charset=utf-8 91.7111ms
+2026-04-30 15:26:59.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - null null
+2026-04-30 15:26:59.590 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:26:59.590 +05:30 [INF] Incoming Request: GET /api/v2/leaves/my
+2026-04-30 15:26:59.591 +05:30 [INF] Executing endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:59.592 +05:30 [INF] Route matched with {action = "GetMyLeaves", controller = "Leaves"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyLeaves(Payroll.Contracts.QueryDto, System.Threading.CancellationToken) on controller Payroll.API.LeavesController (Payroll.API).
+2026-04-30 15:26:59.594 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Payroll.Contracts.LeaveResponseDto, Payroll.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-30 15:26:59.595 +05:30 [INF] Executed action Payroll.API.LeavesController.GetMyLeaves (Payroll.API) in 1.4354ms
+2026-04-30 15:26:59.596 +05:30 [INF] Executed endpoint 'Payroll.API.LeavesController.GetMyLeaves (Payroll.API)'
+2026-04-30 15:26:59.597 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:26:59.598 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/v2/leaves/my?filterOn=&filterQuery=&sortBy=&isAscending=true&pageNum=1&pageSize=3 - 200 null application/json; charset=utf-8 10.1712ms
+2026-04-30 15:27:02.085 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:02.088 +05:30 [INF] Background task running...
+2026-04-30 15:27:04.566 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:27:04.569 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:04.570 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - 204 null null 4.0157ms
+2026-04-30 15:27:04.571 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:27:04.577 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:04.578 +05:30 [INF] Incoming Request: GET /api/security/csrf-token
+2026-04-30 15:27:04.580 +05:30 [INF] Executing endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:27:04.581 +05:30 [INF] Route matched with {action = "GetCsrfToken", controller = "Security"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCsrfToken() on controller Payroll.API.SecurityController (Payroll.API).
+2026-04-30 15:27:04.584 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.CsrfResponseDto'.
+2026-04-30 15:27:04.586 +05:30 [INF] Executed action Payroll.API.SecurityController.GetCsrfToken (Payroll.API) in 2.4783ms
+2026-04-30 15:27:04.588 +05:30 [INF] Executed endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:27:04.595 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:27:04.597 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/security/csrf-token - 200 null application/json; charset=utf-8 25.4185ms
+2026-04-30 15:27:04.622 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - null null
+2026-04-30 15:27:04.625 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:04.626 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/auth/refresh - 204 null null 3.604ms
+2026-04-30 15:27:04.627 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7288/api/auth/refresh - application/json 2
+2026-04-30 15:27:04.631 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:04.632 +05:30 [INF] Incoming Request: POST /api/auth/refresh
+2026-04-30 15:27:04.634 +05:30 [INF] Executing endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:27:04.635 +05:30 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(System.Threading.CancellationToken) on controller Payroll.API.AuthController (Payroll.API).
+2026-04-30 15:27:04.642 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[@__tokenHash_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedAt], [r].[ExpiryDate], [r].[IsRevoked], [r].[ReplacedByTokenId], [r].[RevokedAt], [r].[TokenHash], [r].[UserId]
+FROM [RefreshTokens] AS [r]
+WHERE [r].[TokenHash] = @__tokenHash_0 AND [r].[IsRevoked] = CAST(0 AS bit) AND [r].[ExpiryDate] > GETUTCDATE()
+2026-04-30 15:27:04.654 +05:30 [INF] Executed DbCommand (9ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[EmployeeId], [s].[Department], [s].[Email], [s].[FirstName], [s].[LastName], [s].[ManagerId], [s].[PasswordHash], [s].[RoleId], [s].[Salary], [s].[UserName], [s].[RoleId0], [s].[Name], [s0].[RoleId], [s0].[PermissionId], [s0].[PermissionId0], [s0].[PermissionName]
+FROM (
+    SELECT TOP(1) [e].[EmployeeId], [e].[Department], [e].[Email], [e].[FirstName], [e].[LastName], [e].[ManagerId], [e].[PasswordHash], [e].[RoleId], [e].[Salary], [e].[UserName], [r].[RoleId] AS [RoleId0], [r].[Name]
+    FROM [Employees] AS [e]
+    INNER JOIN [Roles] AS [r] ON [e].[RoleId] = [r].[RoleId]
+    WHERE [e].[EmployeeId] = @__userId_0
+) AS [s]
+LEFT JOIN (
+    SELECT [r0].[RoleId], [r0].[PermissionId], [p].[PermissionId] AS [PermissionId0], [p].[PermissionName]
+    FROM [RolePermissions] AS [r0]
+    INNER JOIN [Permissions] AS [p] ON [r0].[PermissionId] = [p].[PermissionId]
+) AS [s0] ON [s].[RoleId0] = [s0].[RoleId]
+ORDER BY [s].[EmployeeId], [s].[RoleId0], [s0].[RoleId], [s0].[PermissionId]
+2026-04-30 15:27:04.678 +05:30 [INF] Executed DbCommand (20ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (DbType = Boolean), @p4='?' (DbType = Guid), @p5='?' (DbType = DateTime2), @p6='?' (Size = 4000), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([Id], [CreatedAt], [ExpiryDate], [IsRevoked], [ReplacedByTokenId], [RevokedAt], [TokenHash], [UserId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2026-04-30 15:27:04.849 +05:30 [INF] Executed DbCommand (163ms) [Parameters=[@p2='?' (DbType = Guid), @p0='?' (DbType = Boolean), @p1='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [IsRevoked] = @p0, [RevokedAt] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2026-04-30 15:27:05.048 +05:30 [INF] Executed DbCommand (195ms) [Parameters=[@p7='?' (DbType = Guid), @p0='?' (DbType = DateTime2), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Boolean), @p3='?' (DbType = Guid), @p4='?' (DbType = DateTime2), @p5='?' (Size = 4000), @p6='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [CreatedAt] = @p0, [ExpiryDate] = @p1, [IsRevoked] = @p2, [ReplacedByTokenId] = @p3, [RevokedAt] = @p4, [TokenHash] = @p5, [UserId] = @p6
+OUTPUT 1
+WHERE [Id] = @p7;
+2026-04-30 15:27:05.050 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.AuthResponseDto'.
+2026-04-30 15:27:05.052 +05:30 [INF] Executed action Payroll.API.AuthController.RefreshToken (Payroll.API) in 415.363ms
+2026-04-30 15:27:05.054 +05:30 [INF] Executed endpoint 'Payroll.API.AuthController.RefreshToken (Payroll.API)'
+2026-04-30 15:27:05.055 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:27:05.056 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7288/api/auth/refresh - 200 null application/json; charset=utf-8 429.0632ms
+2026-04-30 15:27:07.097 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:07.099 +05:30 [INF] Background task running...
+2026-04-30 15:27:10.673 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:27:10.676 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:10.677 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/security/csrf-token - 204 null null 3.8456ms
+2026-04-30 15:27:10.678 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7288/api/security/csrf-token - null null
+2026-04-30 15:27:10.682 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:10.682 +05:30 [INF] Incoming Request: GET /api/security/csrf-token
+2026-04-30 15:27:10.684 +05:30 [INF] Executing endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:27:10.684 +05:30 [INF] Route matched with {action = "GetCsrfToken", controller = "Security"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCsrfToken() on controller Payroll.API.SecurityController (Payroll.API).
+2026-04-30 15:27:10.686 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.CsrfResponseDto'.
+2026-04-30 15:27:10.688 +05:30 [INF] Executed action Payroll.API.SecurityController.GetCsrfToken (Payroll.API) in 1.9464ms
+2026-04-30 15:27:10.689 +05:30 [INF] Executed endpoint 'Payroll.API.SecurityController.GetCsrfToken (Payroll.API)'
+2026-04-30 15:27:10.690 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:27:10.691 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7288/api/security/csrf-token - 200 null application/json; charset=utf-8 13.014ms
+2026-04-30 15:27:10.702 +05:30 [INF] Request starting HTTP/2 OPTIONS https://localhost:7288/api/auth/logout - null null
+2026-04-30 15:27:10.704 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:10.705 +05:30 [INF] Request finished HTTP/2 OPTIONS https://localhost:7288/api/auth/logout - 204 null null 3.3739ms
+2026-04-30 15:27:10.706 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7288/api/auth/logout - application/json 2
+2026-04-30 15:27:10.710 +05:30 [INF] CORS policy execution successful.
+2026-04-30 15:27:10.711 +05:30 [INF] Incoming Request: POST /api/auth/logout
+2026-04-30 15:27:10.713 +05:30 [INF] Executing endpoint 'Payroll.API.AuthController.Logout (Payroll.API)'
+2026-04-30 15:27:10.714 +05:30 [INF] Route matched with {action = "Logout", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Logout() on controller Payroll.API.AuthController (Payroll.API).
+2026-04-30 15:27:10.717 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__tokenHash_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedAt], [r].[ExpiryDate], [r].[IsRevoked], [r].[ReplacedByTokenId], [r].[RevokedAt], [r].[TokenHash], [r].[UserId]
+FROM [RefreshTokens] AS [r]
+WHERE [r].[TokenHash] = @__tokenHash_0 AND [r].[IsRevoked] = CAST(0 AS bit) AND [r].[ExpiryDate] > GETUTCDATE()
+2026-04-30 15:27:10.721 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@p2='?' (DbType = Guid), @p0='?' (DbType = Boolean), @p1='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [IsRevoked] = @p0, [RevokedAt] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2026-04-30 15:27:10.723 +05:30 [INF] Executing OkObjectResult, writing value of type 'Payroll.Contracts.LogoutResponseDto'.
+2026-04-30 15:27:10.724 +05:30 [INF] Executed action Payroll.API.AuthController.Logout (Payroll.API) in 9.1357ms
+2026-04-30 15:27:10.726 +05:30 [INF] Executed endpoint 'Payroll.API.AuthController.Logout (Payroll.API)'
+2026-04-30 15:27:10.727 +05:30 [INF] Outgoing Response: 200
+2026-04-30 15:27:10.728 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7288/api/auth/logout - 200 null application/json; charset=utf-8 21.7692ms
+2026-04-30 15:27:12.114 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:12.115 +05:30 [INF] Background task running...
+2026-04-30 15:27:17.129 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:17.130 +05:30 [INF] Background task running...
+2026-04-30 15:27:22.143 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:22.146 +05:30 [INF] Background task running...
+2026-04-30 15:27:27.152 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:27.154 +05:30 [INF] Background task running...
+2026-04-30 15:27:32.170 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:32.171 +05:30 [INF] Background task running...
+2026-04-30 15:27:37.178 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:37.185 +05:30 [INF] Background task running...
+2026-04-30 15:27:42.203 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:42.205 +05:30 [INF] Background task running...
+2026-04-30 15:27:47.217 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:47.219 +05:30 [INF] Background task running...
+2026-04-30 15:27:52.220 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:52.222 +05:30 [INF] Background task running...
+2026-04-30 15:27:57.240 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:27:57.242 +05:30 [INF] Background task running...
+2026-04-30 15:28:02.254 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:02.257 +05:30 [INF] Background task running...
+2026-04-30 15:28:07.261 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:07.263 +05:30 [INF] Background task running...
+2026-04-30 15:28:12.270 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:12.272 +05:30 [INF] Background task running...
+2026-04-30 15:28:17.284 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:17.286 +05:30 [INF] Background task running...
+2026-04-30 15:28:22.299 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:22.305 +05:30 [INF] Background task running...
+2026-04-30 15:28:27.311 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:27.313 +05:30 [INF] Background task running...
+2026-04-30 15:28:32.317 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:32.319 +05:30 [INF] Background task running...
+2026-04-30 15:28:37.321 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:37.322 +05:30 [INF] Background task running...
+2026-04-30 15:28:42.331 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:42.338 +05:30 [INF] Background task running...
+2026-04-30 15:28:47.351 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:47.353 +05:30 [INF] Background task running...
+2026-04-30 15:28:52.357 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:52.359 +05:30 [INF] Background task running...
+2026-04-30 15:28:57.370 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:28:57.372 +05:30 [INF] Background task running...
+2026-04-30 15:29:02.380 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:29:02.382 +05:30 [INF] Background task running...
+2026-04-30 15:29:07.386 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:29:07.386 +05:30 [INF] Background task running...
+2026-04-30 15:29:12.400 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:29:12.403 +05:30 [INF] Background task running...
+2026-04-30 15:29:17.413 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:29:17.415 +05:30 [INF] Background task running...
+2026-04-30 15:29:22.419 +05:30 [INF] Background task completed an iteration.
+2026-04-30 15:29:22.421 +05:30 [INF] Background task running...

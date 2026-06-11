@@ -1,0 +1,8 @@
+<app-header />
+
+<main>
+  <div>
+    <router-outlet *ngIf="authService.authReady$ | async"></router-outlet>
+  </div>
+  <app-loading-spinner *ngIf="!(authService.authReady$ | async)"></app-loading-spinner>
+</main>

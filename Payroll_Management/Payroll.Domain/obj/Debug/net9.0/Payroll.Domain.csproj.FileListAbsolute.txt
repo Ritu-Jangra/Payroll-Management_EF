@@ -1,0 +1,11 @@
+D:\POC_Practice\Payroll_Management\Payroll.Domain\bin\Debug\net9.0\Payroll.Domain.deps.json
+D:\POC_Practice\Payroll_Management\Payroll.Domain\bin\Debug\net9.0\Payroll.Domain.dll
+D:\POC_Practice\Payroll_Management\Payroll.Domain\bin\Debug\net9.0\Payroll.Domain.pdb
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.AssemblyInfoInputs.cache
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.AssemblyInfo.cs
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.csproj.CoreCompileInputs.cache
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.dll
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\refint\Payroll.Domain.dll
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\Payroll.Domain.pdb
+D:\POC_Practice\Payroll_Management\Payroll.Domain\obj\Debug\net9.0\ref\Payroll.Domain.dll
