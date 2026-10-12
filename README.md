@@ -1,6 +1,6 @@
 # 💼 Payroll Management System
 
-A web-based **Payroll Management System** built using **ASP.NET Core Web API, Entity Framework Core, Angular, and SQL Server** to manage employees, salaries, payslips, and leave requests with role-based access control.
+A web-based **Payroll Management System** built using **ASP.NET Core Web API, Entity Framework Core, Angular, and SQL Server** to manage employees, salaries and leave requests with role-based access control.
 
 ## 🛠️ Tech Stack
 
